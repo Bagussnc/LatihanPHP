@@ -1,3 +1,13 @@
 <?php 
+// komentar satu baris
+/*komentar lebih dari 
+satu baris */
 
-echo 'hello world'
+
+//menampilkan ke layar
+echo 'hello world';
+
+
+//variable
+
+?>
